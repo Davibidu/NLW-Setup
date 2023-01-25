@@ -24,4 +24,7 @@ function save() {
 
 const data = JSON.parse(localStorage.getItem("NLWSetup@dev")) || {}
 nlwSetup.setData(data)
-nlwSetup.load() 
+nlwSetup.load()
+
+
+
