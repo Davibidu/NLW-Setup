@@ -133,4 +133,12 @@ input:checked {
         display: none;
 
     }
+
+    .habit span {
+        font-size: 22px;
+        font-family: 'inter','sans-serif';
+    
+        margin-left: 5px;
+        margin-top: 5px;
+    }
 }
